@@ -11,18 +11,7 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
     `irm https://get.activated.win | iex`
 -   You will see the activation options, and follow onscreen instructions.
 -   That's all.
-
-### Method 2 - Traditional
-
--   Download the file from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
--   Right click on the downloaded zip file and extract
--   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO.cmd`
--   You will see the activation options, and follow onscreen instructions.
--   That's all.
-
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
-
+-   
 ```
 Latest Version: 1.8
 Release date: 16-Mar-2023
