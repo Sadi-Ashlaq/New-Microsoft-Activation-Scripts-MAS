@@ -4,9 +4,9 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 
 ## Download / How to use it?
 
-### Method 1 - PowerShell (Recommended)
+### Activate Windows / Office.
 
--   On Windows 8.1/10/11, right-click on the windows start menu and select PowerShell or Terminal (Not CMD).
+-   On Windows 8.1/10/11, Click the Start Menu, type PowerShell, then open it.
 -   Copy-paste the below code and press enter\
     `irm https://get.activated.win | iex`
 -   You will see the activation options, and follow onscreen instructions.
